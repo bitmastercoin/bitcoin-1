@@ -25,3 +25,4 @@ libtest_util/libtest_util.vcxproj
 libbitcoin_qt/QtGeneratedFiles/*
 test_bitcoin-qt/QtGeneratedFiles/*
 vcpkg_installed
+#please hash some of this out with notes to explain exactly what you are doing when you are basically attacking my code (making it work better?) i think not. NOW TELL ME WHAT YO UARE DOING IN YOUR ########s
